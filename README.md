@@ -1,0 +1,1 @@
+Making a basic website to refresh my html and css knowledge after about a week's break.
