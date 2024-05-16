@@ -60,11 +60,23 @@ button:active {
     background-color:red;
 }
 
+.button-link {
+    text-decoration: none;
+    color: black;
+}
+
 .second-div p {
     background-color: orange;
+    padding: 40px;
+    width: 50%;
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 footer {
     background-color: firebrick;
     color: antiquewhite;
+    width: 50%;
+    margin: 0 0 0 50%;
+    text-align: right;
 }
